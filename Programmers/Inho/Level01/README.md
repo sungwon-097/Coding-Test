@@ -106,3 +106,9 @@ Array.Sort(arr);
 char 배열로 만들 필요 없이 string 자체에서도 [i]로 접근 가능함
 ToString, ToUpper 함수를 외워야하나?
 ```
+
+## 시저암호
+
+```cs
+조건을 너무 어렵게 짬 좀 더 쉽게 생각하길
+```
