@@ -154,3 +154,10 @@ Array.FindIndex()함수를 이용할 수 있었다 근데 사용하기 좀 어�
 ```cs
 intParse나 int32.Parse같은 함수들을 사용하던데 내가 사용한 foreach로 아스키코드 확인하는게 가장 좋은거같음...
 ```
+
+## 문자열 내림차순으로 배치하기
+
+```cs
+Sort를 구현해버렸다... Array.Sort();를 이용하자...
+str+=chr; 보다 new string(chrlist);가 좋아보임
+```
