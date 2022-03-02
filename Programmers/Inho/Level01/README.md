@@ -161,3 +161,11 @@ intParse나 int32.Parse같은 함수들을 사용하던데 내가 사용한 fore
 Sort를 구현해버렸다... Array.Sort();를 이용하자...
 str+=chr; 보다 new string(chrlist);가 좋아보임
 ```
+
+## 문자열 내림차순으로 배치하기
+
+```cs
+나름의 Sort를 구현... 다른사람들은 String.OrderBy(c => c)를 사용했다
+이런거까지 외워야하나 싶긴 하다
+CompareTo는 외워두자
+```
