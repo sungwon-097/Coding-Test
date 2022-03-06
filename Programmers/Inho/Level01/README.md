@@ -169,3 +169,9 @@ str+=chr; 보다 new string(chrlist);가 좋아보임
 이런거까지 외워야하나 싶긴 하다
 CompareTo는 외워두자
 ```
+
+## 두 정수 사이의 합
+
+```cs
+big과 small을 두고 Math를 두었지만 그냥 크기 비교만으로 해도 됐었을듯?
+```
