@@ -175,3 +175,9 @@ CompareTo는 외워두자
 ```cs
 big과 small을 두고 Math를 두었지만 그냥 크기 비교만으로 해도 됐었을듯?
 ```
+
+## 나누어 떨어지는 숫자 배열
+
+```cs
+Array.Resize(ref arr, size)
+```
