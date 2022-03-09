@@ -207,3 +207,9 @@ Array.Resize(ref arr, size)
 ```cs
 Array와 List를 왔다갔다 자유롭게 해야하지만 지금은 너무 List 자료형에 너무 의존하는 것 같다
 ```
+
+## 예산
+
+```cs
+Sort를 해서 계산하니 어려울게 없었음
+```
