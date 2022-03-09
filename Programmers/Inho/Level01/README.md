@@ -181,3 +181,9 @@ big과 small을 두고 Math를 두었지만 그냥 크기 비교만으로 해도
 ```cs
 Array.Resize(ref arr, size)
 ```
+
+## 나머지가 1이 되는 수 찾기
+
+```cs
+소수 찾기 - Sqrt, 에라토스테네스의 체 기억하기
+```
