@@ -154,6 +154,7 @@ Array.FindIndex()함수를 이용할 수 있었다 근데 사용하기 좀 어�
 ```cs
 intParse나 int32.Parse같은 함수들을 사용하던데 내가 사용한 foreach로 아스키코드 확인하는게 가장 좋은거같음...
 ```
+
 <<<<<<< HEAD:Programmers/Inho/C#/Level01/README.md
 
 ## 문자열 내림차순으로 배치하기
@@ -271,5 +272,3 @@ string.Split()함수도 새로 배움
 Distinct()는 저번에 사용해봤던것 같은데 이번에도 까먹고 다시 검색함 근데 Array랑 list랑 둘다 적용되는듯?
 이 코딩테스트 준비를 시작하게 된 문제를 다른 문제들을 통해 성장하며 이제는 어렵지 않게 풀게되니 기분이 좋다
 ```
-=======
->>>>>>> parent of 004e9f3... add: 문자열 내림차순으로 배치하기:Programmers/Inho/Level01/README.md
