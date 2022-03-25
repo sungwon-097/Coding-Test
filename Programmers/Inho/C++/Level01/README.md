@@ -24,3 +24,10 @@ replace를 또 생각못했음
 string이 아니라 str로 표현함 substring이 아니라 substr이었음
 C#은 Length지만 C++은 length()였음 - cpp에도 뭔가 규칙이 있겠지
 ```
+
+## 하샤드 수
+
+```cpp
+원래 값을 보전하지 않음... 치명적
+/랑 %구분해라 ㅋㅋㅋㅋㅋ
+```
