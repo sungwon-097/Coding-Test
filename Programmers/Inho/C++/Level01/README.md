@@ -63,3 +63,12 @@ min_element함수는 algorithm 헤더 선언해야 한다
 vector.erase함수도 사용하자
 {}를 이용해 리턴하면 벡터로 해석하는건가?
 ```
+
+## 정수 제곱근 판별
+
+```cpp
+cmath를 사용함
+난 정수 판별시 sqrt와 sqrt를 정수화 한걸 뻈을 때 0인지 검사함
+다른사람들은 sqrt한걸 다시 pow해서 같은지 검사함
+powl이 long long을 반환함
+```
