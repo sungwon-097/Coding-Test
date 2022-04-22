@@ -72,3 +72,17 @@ cmath를 사용함
 다른사람들은 sqrt한걸 다시 pow해서 같은지 검사함
 powl이 long long을 반환함
 ```
+
+## 정수 내림차순으로 배치하기
+
+```cpp
+하나하나 떼서 붙임
+vector<>::iterator로 선언, begin, end로 사용
+algorithm헤더의 sort나 reverse같은것도 벡터 자체를 넣는게 아니라 begin과 end를 넣음
+ - 아마 이터레이터를 파라미터로 받는듯
+반복문의 조건을 %로 했더니 0이 들어가는 경우를 못받았음
+/로 변경 후 성공
+to_string()함수가 있었네
+vector뿐만 아니라 string 변수를 sort()함수에 greater<char>() 조건을 추가할 수 있음
+stoll함수도 있음
+```
