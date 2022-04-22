@@ -99,3 +99,12 @@ stoll함수도 있음
 ```cpp
 string으로 변환해서 한 공간씩 접근하는거 넘 좋은듯
 ```
+
+## 이상한 문자 만들기
+
+```cpp
+또 문제를 제대로 못읽음
+toupper와 tolower를 배움
+string 전체에 적용하기 위해서는 transform함수를 이용하더라
+string 비교는 compare함수
+```
