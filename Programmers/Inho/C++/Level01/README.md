@@ -150,3 +150,9 @@ array는 size()가 아닌가봄? - sizeof/sizeof로 봐야하는듯
 find라는 함수가 있음 begin, end, 조건 이면 그 iterator 반환
 answer+=를 여러줄에 할 게 아니라 한줄에 썼어도 좋았을듯
 ```
+
+## 문자열 다루기 기본
+
+```cpp
+isdigit으로 숫자인지 알 수 있음
+```
