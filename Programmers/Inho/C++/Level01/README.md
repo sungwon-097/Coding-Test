@@ -309,6 +309,13 @@ regex_replace라는 C#같은게 있더라 - 얘는 존재하는지 검사할 필
 코드가 엄청 줄어듬
 ```
 
+## 신규 아이디 추천
+
+```cpp
+back, front, npos, empty등 다양하게 활용하는법을 익힘
+pop_back은 되는데 pop_front는 안되더라
+```
+
 ## 신고 결과 받기
 
 ```cpp
