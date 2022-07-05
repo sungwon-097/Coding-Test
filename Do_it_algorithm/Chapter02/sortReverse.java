@@ -30,5 +30,4 @@ public class sortReverse {
         printArray(reverse(a));
         System.out.println("max : "+sumOf(reverse(a)));
     }
-    
 }
