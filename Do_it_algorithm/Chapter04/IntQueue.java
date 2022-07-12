@@ -68,4 +68,8 @@ public class IntQueue { // circular queue
             System.out.println();
         }
     }
+
+    public int size(){return num;}
+
+    public int capacity(){return max;}
 }
