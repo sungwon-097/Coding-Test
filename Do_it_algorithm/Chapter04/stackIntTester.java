@@ -43,6 +43,8 @@ public class stackIntTester {
                 case 4:
                     s.dump();
                     break;
+                default:
+                    stdIn.close();
             }
         }
     }
