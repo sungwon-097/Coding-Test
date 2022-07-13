@@ -42,6 +42,8 @@ public class IntQueueTester {
                 case 4:
                     s.dump();
                     break;
+                default:
+                    stdIn.close();
             }
         }
     }
